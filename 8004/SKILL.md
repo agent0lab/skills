@@ -35,7 +35,6 @@ Answer ERC-8004 questions by separating normative standard requirements from imp
 Load these as needed, one concept per file:
 
 - `references/source-map.md`
-- `references/scope.md`
 - `references/identity-model.md`
 - `references/agent-identifier.md`
 - `references/identity-functions.md`
@@ -50,6 +49,8 @@ Load these as needed, one concept per file:
 - `references/discrepancy-rules.md`
 - `references/answer-examples.md`
 - `references/glossary.md`
+- `references/registration-best-practices.md`
+- `references/reputation-best-practices.md`
 
 Reusable template:
 

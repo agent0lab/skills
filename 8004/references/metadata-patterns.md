@@ -11,7 +11,7 @@ The `agentURI` points to a JSON document with this structure:
 
 ```json
 {
-  "type": "https://eips.ethereum.org/EIPS/eip-8004",
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
   "name": "myAgentName",
   "description": "...",
   "image": "https://example.com/agentimage.png",
@@ -24,7 +24,7 @@ The `agentURI` points to a JSON document with this structure:
   ],
   "x402Support": false,
   "active": true,
-  "registrations": [{ "agentRegistry": "eip155:1:0x...", "agentId": "123" }],
+  "registrations": [{ "agentRegistry": "eip155:1:0x...", "agentId": 123 }],
   "supportedTrust": ["reputation", "crypto-economic", "tee-attestation"]
 }
 ```

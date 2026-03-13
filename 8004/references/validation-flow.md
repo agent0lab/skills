@@ -42,4 +42,4 @@ event ValidationRequest(address indexed validatorAddress, uint256 indexed agentI
 event ValidationResponse(address indexed validatorAddress, uint256 indexed agentId, bytes32 indexed requestHash, uint8 response, string responseURI, bytes32 responseHash, string tag)
 ```
 
-ValidationRegistry is not yet widely deployed.
+ValidationRegistry is still under active development with the community and is not yet available.
