@@ -12,11 +12,13 @@ Standard status: Draft
 - IdentityRegistry: `0x8004A818BFB912233c491871b3d84c89A494BD9e`
 - ReputationRegistry: `0x8004B663056A597Dffe9eCcC1965A193B7388713`
 
-## Deployed Networks (as of Feb 2026)
+## Deployed Networks (as of Mar 2026)
 
-Mainnets and testnets: Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche, Celo, Gnosis, Linea, Scroll, Taiko, Abstract, MegaETH, Mantle (WIP), Monad, BSC.
+**Mainnets:** Ethereum, Base, Abstract, Arbitrum, Avalanche, BSC, Celo, Gnosis, GOAT Network, Linea, Mantle, MegaETH, Metis, Monad, Optimism, Polygon, Scroll, SKALE Base, Soneium, Taiko, XLayer.
 
-ValidationRegistry is not yet widely deployed.
+**Testnets:** Ethereum Sepolia, Base Sepolia, Abstract Testnet, Arbitrum Testnet, Avalanche Testnet, BSC Testnet, Celo Testnet, Linea Sepolia, Mantle Testnet, MegaETH Testnet, Metis Sepolia, Monad Testnet, Optimism Testnet, Polygon Amoy, Scroll Testnet, SKALE Base Sepolia, Soneium Minato, Taiko Hoodi, XLayer Testnet, Hedera Testnet, Arc Testnet.
+
+ValidationRegistry is still under active development and not yet available.
 
 ## Caveats
 

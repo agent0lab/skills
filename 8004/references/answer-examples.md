@@ -3,7 +3,7 @@
 ## "What is ERC-8004?"
 
 **Spec:** Standard for trustless agent identity, reputation, and validation registries. Built on ERC-721. Requires EIP-155, EIP-712, EIP-721, ERC-1271.
-**Implementation:** Identity and Reputation registries deployed via CREATE2 at deterministic addresses across 16+ networks.
+**Implementation:** Identity and Reputation registries deployed via CREATE2 at deterministic addresses across 20+ networks.
 **Open:** Validation registry semantics still evolving with TEE community.
 
 ## "How do I register an agent?"

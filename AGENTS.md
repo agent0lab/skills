@@ -4,6 +4,11 @@
 
 This repository contains agent skills for the ERC-8004 Trustless Agents ecosystem. Each top-level directory (`8004/`, `agent0/`) is a self-contained skill following the Amp skill structure.
 
+## Ground Rules
+
+- NEVER MAKE THINGS UP. If you don't know something, notify your human.
+- Double-check everything to ensure it's valid and not made up.
+
 ## Conventions
 
 - Each skill has a `SKILL.md` with YAML frontmatter (`name`, `description`) as its entry point.

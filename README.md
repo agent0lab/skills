@@ -25,7 +25,6 @@ Integrates and operates [agent0lab](https://github.com/agent0lab) SDKs (`agent0-
 │   └── openai.yaml
 └── references/           # Lazy-loaded reference docs
     ├── source-map.md
-    ├── scope.md
     ├── identity-model.md
     ├── identity-functions.md
     ├── identity-events.md
@@ -37,7 +36,9 @@ Integrates and operates [agent0lab](https://github.com/agent0lab) SDKs (`agent0-
     ├── status-and-deployments.md
     ├── discrepancy-rules.md
     ├── answer-examples.md
-    └── glossary.md
+    ├── glossary.md
+    ├── registration-best-practices.md
+    └── reputation-best-practices.md
 
 agent0/
 ├── SKILL.md
