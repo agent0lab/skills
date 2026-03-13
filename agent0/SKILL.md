@@ -65,13 +65,11 @@ Load these as needed, one concept per file:
 - `references/production-rules.md`
 - `references/troubleshooting.md`
 - `references/answer-examples.md`
-- `references/ts-x402.md` — x402 request and pay (TypeScript)
-- `references/py-x402.md` — x402 request and pay (Python)
+- `references/x402-request-and-pay.md` — x402 request and pay (TS and Py)
 - `references/x402-payment-on-first-request.md`
 - `references/x402-multichain-rpc.md`
 - `references/x402-v1-v2-eip3009.md`
-- `references/ts-a2a.md` — A2A messaging and tasks (TypeScript)
-- `references/py-a2a.md` — A2A messaging and tasks (Python)
+- `references/a2a-messaging-and-tasks.md` — A2A messaging and tasks (TS and Py)
 - `references/a2a-interfaces-bindings.md`
 - `references/a2a-auth-tenant.md`
 - `references/a2a-with-402.md`
