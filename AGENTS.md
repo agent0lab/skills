@@ -35,6 +35,7 @@ This repository contains agent skills for the ERC-8004 Trustless Agents ecosyste
 - Do not mix TypeScript and Python APIs in one recipe.
 - Always ask for network, chainId, RPC URL, and signer details before write workflows.
 - Treat indexer/search data as eventually consistent with on-chain state.
+- For payment-required (x402) or A2A messaging/task flows, load the relevant agent0 reference files (ts-x402, py-x402, ts-a2a, py-a2a, and related x402/a2a references).
 
 ## Cross-Skill References
 
