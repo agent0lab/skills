@@ -65,11 +65,11 @@ Load these as needed, one concept per file:
 - `references/production-rules.md`
 - `references/troubleshooting.md`
 - `references/answer-examples.md`
-- `references/x402-request-and-pay.md` — x402 request and pay (TS and Py)
+- `references/x402-request-and-pay.md`
 - `references/x402-payment-on-first-request.md`
 - `references/x402-multichain-rpc.md`
 - `references/x402-v1-v2-eip3009.md`
-- `references/a2a-messaging-and-tasks.md` — A2A messaging and tasks (TS and Py)
+- `references/a2a-messaging-and-tasks.md`
 - `references/a2a-interfaces-bindings.md`
 - `references/a2a-auth-tenant.md`
 - `references/a2a-with-402.md`
