@@ -17,6 +17,8 @@ Handle agent0 integration requests using short, runnable setup and flow guidance
 - `registration lifecycle`
 - `search/discovery`
 - `reputation feedback`
+- `x402 (payment-required requests)`
+- `a2a (agent-to-agent messaging and tasks)`
 - `troubleshooting`
 2. Load only relevant concept files from `references/`.
 3. Ask for missing required inputs early:
@@ -63,6 +65,14 @@ Load these as needed, one concept per file:
 - `references/production-rules.md`
 - `references/troubleshooting.md`
 - `references/answer-examples.md`
+- `references/x402-request-and-pay.md`
+- `references/x402-payment-on-first-request.md`
+- `references/x402-multichain-rpc.md`
+- `references/x402-v1-v2-eip3009.md`
+- `references/a2a-messaging-and-tasks.md`
+- `references/a2a-interfaces-bindings.md`
+- `references/a2a-auth-tenant.md`
+- `references/a2a-with-402.md`
 
 Reusable templates:
 
@@ -81,4 +91,4 @@ Reusable templates:
 - Python SDK: https://github.com/agent0lab/agent0-py
 - SDK Docs: https://sdk.ag0.xyz
 - Package: `agent0-sdk` on npm (ESM only) and PyPI
-- Version: 1.5.3 at time of writing — all reference files reflect this version
+- Version: 1.7.0 at time of writing for x402/a2a; other reference files may reflect 1.5.3
